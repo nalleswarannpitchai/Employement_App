@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094273264727",
+    "project_id": "fix-xpert",
+    "storage_bucket": "fix-xpert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094273264727:android:74076a77705fca6c590712",
+        "android_client_info": {
+          "package_name": "com.example.fixxpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094273264727-3bh161spcrpgljn3lbrs48jkka8480td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtUkzO0F9soPaEh18tCpFxmlaij9xWBe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094273264727-3bh161spcrpgljn3lbrs48jkka8480td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
